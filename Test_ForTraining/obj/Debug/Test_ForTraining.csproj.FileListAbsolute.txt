@@ -1,0 +1,7 @@
+c:\users\anna\documents\visual studio 2013\Projects\Test_ForTraining\Test_ForTraining\bin\Debug\Test_ForTraining.exe.config
+E:\универ\4 kurs\Test_ForTraining\Test_ForTraining\bin\Debug\Test_ForTraining.exe.config
+E:\универ\4 kurs\Test_ForTraining\Test_ForTraining\obj\Debug\Test_ForTraining.csprojResolveAssemblyReference.cache
+E:\универ\4 kurs\Test_ForTraining\Test_ForTraining\bin\Debug\Test_ForTraining.exe
+E:\универ\4 kurs\Test_ForTraining\Test_ForTraining\bin\Debug\Test_ForTraining.pdb
+E:\универ\4 kurs\Test_ForTraining\Test_ForTraining\obj\Debug\Test_ForTraining.exe
+E:\универ\4 kurs\Test_ForTraining\Test_ForTraining\obj\Debug\Test_ForTraining.pdb
